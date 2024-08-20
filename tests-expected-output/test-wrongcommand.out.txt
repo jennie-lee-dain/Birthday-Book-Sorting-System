@@ -1,0 +1,15 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "bob"
+I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> You entered: "quit program"
+I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> You entered: "add William Pitt 12 18 1963"
+Added "William Pitt, 12/18/1963" to birthday book.
+> You entered: "list"
+1. William Pitt, 12/18/1963
+> You entered: "quit"

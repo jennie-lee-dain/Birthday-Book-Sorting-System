@@ -1,0 +1,5 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "list"
+The birthday book is empty.
+> You entered: "quit"

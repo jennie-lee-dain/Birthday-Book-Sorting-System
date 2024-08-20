@@ -1,0 +1,7 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "add Madonna Ciccone 8 16 1958 "
+Added "Madonna Ciccone, 8/16/1958" to birthday book.
+> You entered: "delete 0"
+I'm sorry, but there is no such entry in the book.
+> You entered: "quit"

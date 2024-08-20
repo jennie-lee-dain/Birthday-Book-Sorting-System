@@ -1,0 +1,39 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "add Madonna Ciccone 8 16 1958"
+Added "Madonna Ciccone, 8/16/1958" to birthday book.
+> You entered: "add Natalie Hershlag 6 9 1981"
+Added "Natalie Hershlag, 6/9/1981" to birthday book.
+> You entered: "save .test-load-bbday-book-entries.txt"
+Saved birthdays to ".test-load-bbday-book-entries.txt".
+> You entered: "add William Pitt 12 18 1963"
+Added "William Pitt, 12/18/1963" to birthday book.
+> You entered: "add Brad Pitt 12 18 1963"
+Added "Brad Pitt, 12/18/1963" to birthday book.
+> You entered: "load .test-load-bbday-book-entries.txt"
+Birthdays in ".test-load-bbday-book-entries.txt" added to birthday book.
+> You entered: "save .test-load-bbday-book-entries.txt"
+Saved birthdays to ".test-load-bbday-book-entries.txt".
+> You entered: "list"
+1. Madonna Ciccone, 8/16/1958
+2. Natalie Hershlag, 6/9/1981
+3. William Pitt, 12/18/1963
+4. Brad Pitt, 12/18/1963
+5. Madonna Ciccone, 8/16/1958
+6. Natalie Hershlag, 6/9/1981
+> You entered: "load .test-load-bbday-book-entries.txt"
+Birthdays in ".test-load-bbday-book-entries.txt" added to birthday book.
+> You entered: "list"
+1. Madonna Ciccone, 8/16/1958
+2. Natalie Hershlag, 6/9/1981
+3. William Pitt, 12/18/1963
+4. Brad Pitt, 12/18/1963
+5. Madonna Ciccone, 8/16/1958
+6. Natalie Hershlag, 6/9/1981
+7. Madonna Ciccone, 8/16/1958
+8. Natalie Hershlag, 6/9/1981
+9. William Pitt, 12/18/1963
+10. Brad Pitt, 12/18/1963
+11. Madonna Ciccone, 8/16/1958
+12. Natalie Hershlag, 6/9/1981
+> You entered: "quit"

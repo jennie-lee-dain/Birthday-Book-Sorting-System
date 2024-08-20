@@ -1,0 +1,16 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "add Madonna Ciccone 8 16 1958"
+Added "Madonna Ciccone, 8/16/1958" to birthday book.
+> You entered: "add Natalie Hershlag 6 9 1981"
+Added "Natalie Hershlag, 6/9/1981" to birthday book.
+> You entered: "save .test-save-bbday-book-entries.txt"
+Saved birthdays to ".test-save-bbday-book-entries.txt".
+> You entered: "load .test-save-bbday-book-entries.txt"
+Birthdays in ".test-save-bbday-book-entries.txt" added to birthday book.
+> You entered: "list"
+1. Madonna Ciccone, 8/16/1958
+2. Natalie Hershlag, 6/9/1981
+3. Madonna Ciccone, 8/16/1958
+4. Natalie Hershlag, 6/9/1981
+> You entered: "quit"

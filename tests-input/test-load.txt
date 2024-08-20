@@ -1,0 +1,12 @@
+echo on
+add Madonna Ciccone 8 16 1958
+add Natalie Hershlag 6 9 1981
+save .test-load-bbday-book-entries.txt
+add William Pitt 12 18 1963
+add Brad Pitt 12 18 1963
+load .test-load-bbday-book-entries.txt
+save .test-load-bbday-book-entries.txt
+list
+load .test-load-bbday-book-entries.txt
+list
+quit

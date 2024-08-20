@@ -1,0 +1,3 @@
+echo on
+delete -1
+quit

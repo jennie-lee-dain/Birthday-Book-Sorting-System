@@ -1,0 +1,71 @@
+Welcome to the Birthday Book Manager
+> The birthday book is empty.
+> I'm sorry, but there is no such entry in the book.
+> I'm sorry, but there is no such entry in the book.
+> I'm sorry, but there is no such entry in the book.
+> Allowed commands:
+add firstName lastName month day year
+list
+delete number
+search name
+save filename
+load filename
+help
+echo on
+echo off
+> Added "Madonna Ciccone, 8/16/1958" to birthday book.
+> I'm sorry, but there is no such entry in the book.
+> I'm sorry, but there is no such entry in the book.
+> I'm sorry, but there is no such entry in the book.
+> Really delete Madonna Ciccone from the birthday book? (y/n) > Added "Madonna Ciccone, 8/16/1958" to birthday book.
+> Added "Natalie Hershlag, 6/9/1981" to birthday book.
+> 1. Madonna Ciccone, 8/16/1958
+2. Natalie Hershlag, 6/9/1981
+> I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> I'm sorry, but there are no entries with a name of "Nat".
+> Entries with a name of "natalie"
+   Natalie Hershlag, 6/9/1981
+> Saved birthdays to ".test-bbday-book-entries.txt".
+> Really delete Madonna Ciccone from the birthday book? (y/n) > Really delete Madonna Ciccone from the birthday book? (y/n) > Really delete Natalie Hershlag from the birthday book? (y/n) > The birthday book is empty.
+> Added "William Pitt, 12/18/1963" to birthday book.
+> Added "Brad Pitt, 12/18/1963" to birthday book.
+> Really delete William Pitt from the birthday book? (y/n) > Added "John Depp, 6/9/1963" to birthday book.
+> I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> Entries with a name of "DEPP"
+   John Depp, 6/9/1963
+> Birthdays in ".test-bbday-book-entries.txt" added to birthday book.
+> 1. Brad Pitt, 12/18/1963
+2. John Depp, 6/9/1963
+3. Madonna Ciccone, 8/16/1958
+4. Natalie Hershlag, 6/9/1981
+> Birthdays in ".test-bbday-book-entries.txt" added to birthday book.
+> 1. Brad Pitt, 12/18/1963
+2. John Depp, 6/9/1963
+3. Madonna Ciccone, 8/16/1958
+4. Natalie Hershlag, 6/9/1981
+5. Madonna Ciccone, 8/16/1958
+6. Natalie Hershlag, 6/9/1981
+> Entries with a name of "MadonnA"
+   Madonna Ciccone, 8/16/1958
+   Madonna Ciccone, 8/16/1958
+> Really delete Natalie Hershlag from the birthday book? (y/n) Please enter "y" or "n" (y/n) > Allowed commands:
+add firstName lastName month day year
+list
+delete number
+search name
+save filename
+load filename
+help
+echo on
+echo off
+> 1. Brad Pitt, 12/18/1963
+2. John Depp, 6/9/1963
+3. Madonna Ciccone, 8/16/1958
+4. Natalie Hershlag, 6/9/1981
+5. Madonna Ciccone, 8/16/1958
+6. Natalie Hershlag, 6/9/1981
+> 

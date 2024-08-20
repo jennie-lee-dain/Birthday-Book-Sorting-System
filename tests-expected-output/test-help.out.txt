@@ -1,0 +1,18 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "help page"
+I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> You entered: "help"
+Allowed commands:
+add firstName lastName month day year
+list
+delete number
+search name
+save filename
+load filename
+help
+echo on
+echo off
+> You entered: "quit"

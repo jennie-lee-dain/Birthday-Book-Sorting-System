@@ -1,0 +1,17 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "add William Pitt 12 18 1963"
+Added "William Pitt, 12/18/1963" to birthday book.
+> You entered: "add Brad Pitt 12 18 1963"
+Added "Brad Pitt, 12/18/1963" to birthday book.
+> You entered: "delete 1"
+Really delete William Pitt from the birthday book? (y/n) > You entered: "add John Depp 6 9 1963"
+Added "John Depp, 6/9/1963" to birthday book.
+> You entered: "search Brad Pitt"
+I am sorry, but that is not a recognized command, or
+you have entered an incorrect number of arguments.
+You may enter 'help' to see a list of commands.
+> You entered: "search Depp"
+Entries with a name of "Depp"
+   John Depp, 6/9/1963
+> You entered: "quit"

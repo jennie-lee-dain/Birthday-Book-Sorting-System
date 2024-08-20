@@ -1,0 +1,5 @@
+echo on 
+add Madonna Ciccone 8 16 1958
+delete Madonna Ciccone
+list
+quit

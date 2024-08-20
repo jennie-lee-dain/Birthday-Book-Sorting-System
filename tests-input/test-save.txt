@@ -1,0 +1,7 @@
+echo on
+add Madonna Ciccone 8 16 1958
+add Natalie Hershlag 6 9 1981
+save .test-save-bbday-book-entries.txt
+load .test-save-bbday-book-entries.txt
+list
+quit

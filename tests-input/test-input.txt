@@ -1,0 +1,43 @@
+list
+delete 0
+delete 1
+delete -1
+help
+add Madonna Ciccone 8 16 1958
+delete -1
+delete 0
+delete 2
+delete 1
+y
+add Madonna Ciccone 8 16 1958
+add Natalie Hershlag 6 9 1981
+list
+find Portman
+search Nat
+search natalie
+save .test-bbday-book-entries.txt
+delete 1
+n
+delete 1
+y
+delete 1
+y
+list
+add William Pitt 12 18 1963
+add Brad Pitt 12 18 1963
+delete 1
+y
+add John Depp 6 9 1963
+search Brad Pitt
+search DEPP
+load .test-bbday-book-entries.txt
+list
+load .test-bbday-book-entries.txt
+list
+search MadonnA
+delete 4
+no thank you
+n
+help
+list
+quit

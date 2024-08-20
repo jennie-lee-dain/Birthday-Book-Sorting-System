@@ -1,0 +1,5 @@
+Welcome to the Birthday Book Manager
+> Echo turned on.
+> You entered: "delete -1"
+I'm sorry, but there is no such entry in the book.
+> You entered: "quit"

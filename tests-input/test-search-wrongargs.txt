@@ -1,0 +1,9 @@
+echo on
+add William Pitt 12 18 1963
+add Brad Pitt 12 18 1963
+delete 1
+y
+add John Depp 6 9 1963
+search Brad Pitt
+search Depp
+quit

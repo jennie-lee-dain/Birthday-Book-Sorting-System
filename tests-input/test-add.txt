@@ -1,0 +1,5 @@
+echo on 
+add Madonna Ciccone 8 16 1958
+add Natalie Hershlag 6 9 1981
+list
+quit

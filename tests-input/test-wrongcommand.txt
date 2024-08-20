@@ -1,0 +1,8 @@
+echo on
+bob
+quit program
+add William Pitt 12 18 1963
+list
+quit
+list
+quit
